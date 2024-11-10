@@ -1,0 +1,50 @@
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\App.xbf
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\BlankPage1.xbf
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\project studio.xr.xml
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\project studio.exe
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\project studio.pdb
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\resources.pri
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\AppxManifest.xml
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\Core\project studio.exe
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\project studio.build.appxrecipe
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\System.Runtime.dll
+C:\Users\tichnut\Documents\project studio\project studio\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\project studio.csprojAssemblyReference.cache
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\App.g.i.cs
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\App.g.cs
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\BlankPage1.g.i.cs
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\BlankPage1.g.cs
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\MainPage.g.cs
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\App.xaml
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\BlankPage1.xaml
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\MainPage.xaml
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\App.xbf
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\BlankPage1.xbf
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\MainPage.xbf
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\project studio.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\project studio.csproj.CopyComplete
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\project studio.exe
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\project studio.pdb
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\priconfig.xml
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\resources.resfiles
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\pri.resfiles
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\qualifiers.txt
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\tichnut\Documents\project studio\project studio\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json

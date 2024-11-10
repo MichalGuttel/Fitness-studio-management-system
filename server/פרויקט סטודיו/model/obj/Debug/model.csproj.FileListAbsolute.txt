@@ -1,0 +1,50 @@
+H:\כתה יב תשפב תכנות\מיכל גוטל\project_michal\model\obj\Debug\model.csprojAssemblyReference.cache
+H:\כתה יב תשפב תכנות\מיכל גוטל\project_michal\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\project_michal\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\project_michal\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\project_michal\model\bin\Debug\model.dll
+C:\Users\tichnut\Desktop\project_michal\model\bin\Debug\model.pdb
+C:\Users\tichnut\Desktop\project_michal\model\obj\Debug\model.dll
+C:\Users\tichnut\Desktop\project_michal\model\obj\Debug\model.pdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\model\bin\Debug\model.dll
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\model\bin\Debug\model.pdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\model\obj\Debug\model.csprojAssemblyReference.cache
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\model\obj\Debug\model.dll
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\model\obj\Debug\model.pdb
+C:\Users\tichnut\Desktop\פרויקט מיכל עם שליפה\project_michal\model\bin\Debug\model.dll
+C:\Users\tichnut\Desktop\פרויקט מיכל עם שליפה\project_michal\model\bin\Debug\model.pdb
+C:\Users\tichnut\Desktop\פרויקט מיכל עם שליפה\project_michal\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\פרויקט מיכל עם שליפה\project_michal\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\פרויקט מיכל עם שליפה\project_michal\model\obj\Debug\model.dll
+C:\Users\tichnut\Desktop\פרויקט מיכל עם שליפה\project_michal\model\obj\Debug\model.pdb
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\model\bin\Debug\model.dll
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\model\bin\Debug\model.pdb
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\model\obj\Debug\model.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\model\obj\Debug\model.dll
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\model\obj\Debug\model.pdb
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\model\bin\Debug\model.dll
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\model\bin\Debug\model.pdb
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.dll
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.pdb
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\model\bin\Debug\model.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\model\bin\Debug\model.pdb
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.pdb
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\bin\Debug\model.dll
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\bin\Debug\model.pdb
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.dll
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.pdb
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.dll
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\obj\Debug\model.pdb
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\bin\Debug\model.dll
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\model\bin\Debug\model.pdb

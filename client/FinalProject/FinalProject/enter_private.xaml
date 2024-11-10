@@ -1,0 +1,49 @@
+﻿<Page
+    Loading="Page_Loading"
+    x:Class="FinalProject.enter_private"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FinalProject"
+    xmlns:clien="using:FinalProject.ServiceReference1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+           
+                <TextBox x:Name="txt1" Header="נא הכניסי מספר תעודת זהות" FontSize="40" HorizontalAlignment="Right" VerticalAlignment="Center" />
+                <Button  HorizontalAlignment="Right" Click="tf_Click" x:Name="tf" Margin="20" Content="המשך" Width="150" Height="100 "/>
+            <StackPanel Background="Pink" HorizontalAlignment="Center" VerticalAlignment="Center" Height="700" Width="1200">
+                <TextBlock x:Name="tb" Text="הפרטים שגויים נא הכנס שנית!" Foreground="Red" FontSize="40" FontWeight="Bold" Margin="5" Visibility="Collapsed"/>
+                <TextBlock FontSize="40" FlowDirection="RightToLeft" x:Name="txtName"/>
+                <TextBlock x:Name="tbt" FlowDirection="RightToLeft"  Foreground="Red" FontSize="40" FontWeight="Bold" Margin="5"/>
+                <TextBlock x:Name="numone"></TextBlock>
+                <Button x:Name="vis" Content="להזמנה" Visibility="Collapsed" Margin="20" HorizontalAlignment="Right" Click="Button_Click_1"/>
+                <Button Visibility="Collapsed" HorizontalAlignment="Right" Click="AddManuy_Click" x:Name="AddManuy" Margin="10" Content="הוסף מנוי" VerticalAlignment="Bottom" Width="150" Height="100 "/>
+
+                <Popup Name="popAddManuy">
+                <Border  Width="550" Height="250" Margin="10" BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left"  VerticalAlignment="Center" >
+                    <StackPanel Width="540" Height="400" Orientation="Vertical" FlowDirection="RightToLeft">
+                        <Button Margin="10" Click="closePopAddM">
+                            <Button.Content>
+                                <SymbolIcon Symbol="Clear"></SymbolIcon>
+                            </Button.Content>
+                        </Button>
+                        <ComboBox Name="typeManuyCombo">
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate x:DataType="clien:typ_menuyim_price_">
+                                    <TextBlock Text="{Binding kod_typmanui}"></TextBlock>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+                            <CalendarDatePicker FontSize="35" Margin="10" Name="firstDate"></CalendarDatePicker>
+                        <Button x:Name="add" Click="add_Click" Width="90" Content="להוספה" Height="50" Margin="10" HorizontalAlignment="Stretch"></Button>
+                         </StackPanel>
+                </Border>
+                </Popup>
+            </StackPanel>
+    </StackPanel>
+    </Grid>
+</Page>

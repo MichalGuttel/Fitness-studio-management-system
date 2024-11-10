@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfService/Service1/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfService/Service1/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfService/Service1/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/model" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_GetAllCastumeres_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCastumeres" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllCastumeres_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCastumeresResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllGauides_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllGauides" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllGauides_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllGauidesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_CheckCastumerIfExist_InputMessage">
+    <wsdl:part name="parameters" element="tns:CheckCastumerIfExist" />
+  </wsdl:message>
+  <wsdl:message name="IService1_CheckCastumerIfExist_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckCastumerIfExistResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_CheckcityIfExist_InputMessage">
+    <wsdl:part name="parameters" element="tns:CheckcityIfExist" />
+  </wsdl:message>
+  <wsdl:message name="IService1_CheckcityIfExist_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckcityIfExistResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Checkchugifexcist_InputMessage">
+    <wsdl:part name="parameters" element="tns:Checkchugifexcist" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Checkchugifexcist_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckchugifexcistResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCustById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCustById" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCustById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCustByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCastumer_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddCastumer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCastumer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddCastumerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddManui_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddManui" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddManui_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddManuiResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllChugim_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllChugim" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllChugim_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllChugimResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllTyp_Chugims_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllTyp_Chugims" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllTyp_Chugims_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllTyp_ChugimsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetLessonsInWeekForCustomer_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetLessonsInWeekForCustomer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetLessonsInWeekForCustomer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetLessonsInWeekForCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetManuy_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetManuy" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetManuy_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetManuyResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllcity_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllcity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllcity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllcityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllcategory_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllcategory" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllcategory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllcategoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllTypmanui_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllTypmanui" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllTypmanui_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllTypmanuiResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetManuyToCust_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetManuyToCust" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetManuyToCust_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetManuyToCustResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtotypmanuy_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtotypmanuy" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtotypmanuy_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtotypmanuyResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtomenuyim_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtomenuyim" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtomenuyim_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtomenuyimResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtotypchugim_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtotypchugim" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtotypchugim_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtotypchugimResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtocity_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtocity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtocity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtocityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addtypchug_InputMessage">
+    <wsdl:part name="parameters" element="tns:Addtypchug" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addtypchug_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddtypchugResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addcity_InputMessage">
+    <wsdl:part name="parameters" element="tns:Addcity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addcity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddcityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addtypmanui_InputMessage">
+    <wsdl:part name="parameters" element="tns:Addtypmanui" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addtypmanui_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddtypmanuiResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addlesson_InputMessage">
+    <wsdl:part name="parameters" element="tns:Addlesson" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addlesson_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddlessonResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetNumLessonfree_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNumLessonfree" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetNumLessonfree_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNumLessonfreeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_delate_InputMessage">
+    <wsdl:part name="parameters" element="tns:delate" />
+  </wsdl:message>
+  <wsdl:message name="IService1_delate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:delateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_delatguaid_InputMessage">
+    <wsdl:part name="parameters" element="tns:delatguaid" />
+  </wsdl:message>
+  <wsdl:message name="IService1_delatguaid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:delatguaidResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_delateciey_InputMessage">
+    <wsdl:part name="parameters" element="tns:delateciey" />
+  </wsdl:message>
+  <wsdl:message name="IService1_delateciey_OutputMessage">
+    <wsdl:part name="parameters" element="tns:delatecieyResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_delatetypchug_InputMessage">
+    <wsdl:part name="parameters" element="tns:delatetypchug" />
+  </wsdl:message>
+  <wsdl:message name="IService1_delatetypchug_OutputMessage">
+    <wsdl:part name="parameters" element="tns:delatetypchugResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addlesontomanui_InputMessage">
+    <wsdl:part name="parameters" element="tns:Addlesontomanui" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addlesontomanui_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddlesontomanuiResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAlrishum_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAlrishum" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAlrishum_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAlrishumResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addgauid_InputMessage">
+    <wsdl:part name="parameters" element="tns:Addgauid" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addgauid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddgauidResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtogauid_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtogauid" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodtogauid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodtogauidResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="GetAllCastumeres">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllCastumeres" message="tns:IService1_GetAllCastumeres_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllCastumeresResponse" message="tns:IService1_GetAllCastumeres_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllGauides">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllGauides" message="tns:IService1_GetAllGauides_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllGauidesResponse" message="tns:IService1_GetAllGauides_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckCastumerIfExist">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/CheckCastumerIfExist" message="tns:IService1_CheckCastumerIfExist_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/CheckCastumerIfExistResponse" message="tns:IService1_CheckCastumerIfExist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckcityIfExist">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/CheckcityIfExist" message="tns:IService1_CheckcityIfExist_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/CheckcityIfExistResponse" message="tns:IService1_CheckcityIfExist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Checkchugifexcist">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Checkchugifexcist" message="tns:IService1_Checkchugifexcist_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/CheckchugifexcistResponse" message="tns:IService1_Checkchugifexcist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCustById">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCustById" message="tns:IService1_GetCustById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCustByIdResponse" message="tns:IService1_GetCustById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddCastumer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddCastumer" message="tns:IService1_AddCastumer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddCastumerResponse" message="tns:IService1_AddCastumer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddManui">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddManui" message="tns:IService1_AddManui_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddManuiResponse" message="tns:IService1_AddManui_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllChugim">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllChugim" message="tns:IService1_GetAllChugim_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllChugimResponse" message="tns:IService1_GetAllChugim_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllTyp_Chugims">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllTyp_Chugims" message="tns:IService1_GetAllTyp_Chugims_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllTyp_ChugimsResponse" message="tns:IService1_GetAllTyp_Chugims_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetLessonsInWeekForCustomer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetLessonsInWeekForCustomer" message="tns:IService1_GetLessonsInWeekForCustomer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetLessonsInWeekForCustomerResponse" message="tns:IService1_GetLessonsInWeekForCustomer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetManuy">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetManuy" message="tns:IService1_GetManuy_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetManuyResponse" message="tns:IService1_GetManuy_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllcity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllcity" message="tns:IService1_GetAllcity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllcityResponse" message="tns:IService1_GetAllcity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllcategory">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllcategory" message="tns:IService1_GetAllcategory_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllcategoryResponse" message="tns:IService1_GetAllcategory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllTypmanui">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllTypmanui" message="tns:IService1_GetAllTypmanui_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllTypmanuiResponse" message="tns:IService1_GetAllTypmanui_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetManuyToCust">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetManuyToCust" message="tns:IService1_GetManuyToCust_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetManuyToCustResponse" message="tns:IService1_GetManuyToCust_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtotypmanuy">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodtotypmanuy" message="tns:IService1_GetCodtotypmanuy_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodtotypmanuyResponse" message="tns:IService1_GetCodtotypmanuy_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtomenuyim">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodtomenuyim" message="tns:IService1_GetCodtomenuyim_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodtomenuyimResponse" message="tns:IService1_GetCodtomenuyim_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtotypchugim">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodtotypchugim" message="tns:IService1_GetCodtotypchugim_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodtotypchugimResponse" message="tns:IService1_GetCodtotypchugim_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtocity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodtocity" message="tns:IService1_GetCodtocity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodtocityResponse" message="tns:IService1_GetCodtocity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Addtypchug">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Addtypchug" message="tns:IService1_Addtypchug_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddtypchugResponse" message="tns:IService1_Addtypchug_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Addcity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Addcity" message="tns:IService1_Addcity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddcityResponse" message="tns:IService1_Addcity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Addtypmanui">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Addtypmanui" message="tns:IService1_Addtypmanui_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddtypmanuiResponse" message="tns:IService1_Addtypmanui_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Addlesson">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Addlesson" message="tns:IService1_Addlesson_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddlessonResponse" message="tns:IService1_Addlesson_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNumLessonfree">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetNumLessonfree" message="tns:IService1_GetNumLessonfree_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetNumLessonfreeResponse" message="tns:IService1_GetNumLessonfree_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="delate">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/delate" message="tns:IService1_delate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/delateResponse" message="tns:IService1_delate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="delatguaid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/delatguaid" message="tns:IService1_delatguaid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/delatguaidResponse" message="tns:IService1_delatguaid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="delateciey">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/delateciey" message="tns:IService1_delateciey_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/delatecieyResponse" message="tns:IService1_delateciey_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="delatetypchug">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/delatetypchug" message="tns:IService1_delatetypchug_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/delatetypchugResponse" message="tns:IService1_delatetypchug_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Addlesontomanui">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Addlesontomanui" message="tns:IService1_Addlesontomanui_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddlesontomanuiResponse" message="tns:IService1_Addlesontomanui_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAlrishum">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAlrishum" message="tns:IService1_GetAlrishum_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAlrishumResponse" message="tns:IService1_GetAlrishum_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Addgauid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Addgauid" message="tns:IService1_Addgauid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddgauidResponse" message="tns:IService1_Addgauid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtogauid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodtogauid" message="tns:IService1_GetCodtogauid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodtogauidResponse" message="tns:IService1_GetCodtogauid_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllCastumeres">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllCastumeres" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllGauides">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllGauides" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckCastumerIfExist">
+      <soap:operation soapAction="http://tempuri.org/IService1/CheckCastumerIfExist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckcityIfExist">
+      <soap:operation soapAction="http://tempuri.org/IService1/CheckcityIfExist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Checkchugifexcist">
+      <soap:operation soapAction="http://tempuri.org/IService1/Checkchugifexcist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCustById">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCustById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddCastumer">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddCastumer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddManui">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddManui" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllChugim">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllChugim" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllTyp_Chugims">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllTyp_Chugims" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetLessonsInWeekForCustomer">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetLessonsInWeekForCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetManuy">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetManuy" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllcity">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllcity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllcategory">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllcategory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllTypmanui">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllTypmanui" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetManuyToCust">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetManuyToCust" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtotypmanuy">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodtotypmanuy" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtomenuyim">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodtomenuyim" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtotypchugim">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodtotypchugim" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtocity">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodtocity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Addtypchug">
+      <soap:operation soapAction="http://tempuri.org/IService1/Addtypchug" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Addcity">
+      <soap:operation soapAction="http://tempuri.org/IService1/Addcity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Addtypmanui">
+      <soap:operation soapAction="http://tempuri.org/IService1/Addtypmanui" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Addlesson">
+      <soap:operation soapAction="http://tempuri.org/IService1/Addlesson" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNumLessonfree">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetNumLessonfree" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="delate">
+      <soap:operation soapAction="http://tempuri.org/IService1/delate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="delatguaid">
+      <soap:operation soapAction="http://tempuri.org/IService1/delatguaid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="delateciey">
+      <soap:operation soapAction="http://tempuri.org/IService1/delateciey" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="delatetypchug">
+      <soap:operation soapAction="http://tempuri.org/IService1/delatetypchug" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Addlesontomanui">
+      <soap:operation soapAction="http://tempuri.org/IService1/Addlesontomanui" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAlrishum">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAlrishum" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Addgauid">
+      <soap:operation soapAction="http://tempuri.org/IService1/Addgauid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodtogauid">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodtogauid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfService/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

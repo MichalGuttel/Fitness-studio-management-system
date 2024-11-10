@@ -1,0 +1,23 @@
+﻿<Page
+    
+    x:Class="FinalProject.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FinalProject"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:Name="txdate"></TextBlock>
+            <Image   Source="/Assets/logo.PNG" Opacity="0.7" Width="2500"  HorizontalAlignment="Center" />
+        <Button x:Name="t1" Background="#FFFF9ACF"  Click="t1_Click" FontSize="60" Content="לכניסה" Width="400" Height="150" Margin="628,661,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="t2" Background="#FFFF9ACF"  Click="t2_Click" Content="לכניסת מנהל" FontSize="30"  Width="400" Height="50" Margin="117,697,0,0" VerticalAlignment="Top"/>
+
+        <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Left">
+            <TextBlock HorizontalAlignment="Left" FontWeight="Bold" Text="כתובת:יהודה הנשיא 33, טלפון:039339393, כתובת מייל:extragym@gmail.com" FontSize="50"></TextBlock>
+        </StackPanel>
+
+    </Grid>
+</Page>

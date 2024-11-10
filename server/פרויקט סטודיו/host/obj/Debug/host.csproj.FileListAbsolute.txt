@@ -1,0 +1,178 @@
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\host.exe.config
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\host.exe
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\host.pdb
+C:\Users\tichnut\Desktop\project_michal\host\obj\Debug\host.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\project_michal\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\project_michal\host\obj\Debug\host.exe
+C:\Users\tichnut\Desktop\project_michal\host\obj\Debug\host.pdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\host\obj\Debug\host.csprojAssemblyReference.cache
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\host\obj\Debug\host.exe
+H:\כתה יב תשפב תכנות\מיכל גוטל\פרויקט סטודיו\project_michal\host\obj\Debug\host.pdb
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\WcfService.dll
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\model.dll
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\View_model.dll
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\WcfService.pdb
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\model.pdb
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\View_model.pdb
+C:\Users\tichnut\Desktop\project_michal\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\tichnut\Desktop\project_michal\host\bin\Debug\data\schedul_accec.accdb
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\data\schedul_accec.accdb
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe.config
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\host.pdb
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.dll
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\model.dll
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.dll
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.pdb
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\model.pdb
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.pdb
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\obj\Debug\host.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\obj\Debug\host.exe
+C:\Users\tichnut\Desktop\פרויקט סטודיו\project_michal\host\obj\Debug\host.pdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\data\schedul_accec.accdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe.config
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\host.pdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.dll
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\model.dll
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.dll
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.pdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\model.pdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.pdb
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.csprojAssemblyReference.cache
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CopyComplete
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.exe
+H:\כתה יב תשפב תכנות\מיכל גוטל\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.pdb
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\data\schedul_accec.accdb
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe.config
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\host.pdb
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.dll
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\model.dll
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.dll
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.pdb
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\model.pdb
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.pdb
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.exe
+C:\Users\tichnut\Desktop\אייר\פרויקט סטודיו\project_michal\host\obj\Debug\host.pdb
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\data\schedul_accec.accdb
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe.config
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\host.pdb
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.dll
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\model.dll
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.dll
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.pdb
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\model.pdb
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.pdb
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.exe
+C:\Users\tichnut\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.pdb
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\data\schedul_accec.accdb
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe.config
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\host.exe
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\host.pdb
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.dll
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\model.dll
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.dll
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\WcfService.pdb
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\model.pdb
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\bin\Debug\View_model.pdb
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.exe
+C:\Users\USER\Desktop\סיון\פרויקט סטודיו\project_michal\host\obj\Debug\host.pdb
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe.config
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.pdb
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.dll
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.dll
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.dll
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.pdb
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.pdb
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.pdb
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.exe
+C:\Users\USER\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.pdb
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe.config
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.pdb
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.dll
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.dll
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.dll
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.pdb
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.pdb
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.pdb
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.exe
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.pdb
+C:\Users\tichnut\Desktop\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe.config
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.pdb
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.dll
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.pdb
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.pdb
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.pdb
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.exe
+C:\Users\USER\Desktop\‏‏תיקיה חדשה (2)\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.pdb
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe.config
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.pdb
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.dll
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.dll
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.dll
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.pdb
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.pdb
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.pdb
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csprojAssemblyReference.cache
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.exe
+C:\Users\tichnut\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.pdb
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe.config
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.pdb
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.dll
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.dll
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.dll
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.pdb
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.pdb
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.pdb
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.exe
+C:\Users\USER\Desktop\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.pdb
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe.config
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.exe
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\host.pdb
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.dll
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.dll
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.dll
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\WcfService.pdb
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\model.pdb
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\bin\Debug\View_model.pdb
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.exe
+C:\Users\USER\Desktop\יום רביעי\מיכל\פרויקט בבית מתוקן\פרויקט סטודיו\host\obj\Debug\host.pdb

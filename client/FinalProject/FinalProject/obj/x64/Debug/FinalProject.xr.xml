@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="pelephone" />
+    <RootPropertyPathName Name="mail" />
+    <RootPropertyPathName Name="kod_city" />
+    <RootPropertyPathName Name="name_city" />
+    <RootPropertyPathName Name="family_name" />
+    <RootPropertyPathName Name="private_name" />
+    <RootPropertyPathName Name="family_guaid" />
+    <RootPropertyPathName Name="name_guaid" />
+    <RootPropertyPathName Name="kod_typmanui" />
+    <RootPropertyPathName Name="name_category" />
+    <RootPropertyPathName Name="kod_category" />
+    <RootPropertyPathName Name="kod_typLesson" />
+    <RootPropertyPathName Name="name_lesson" />
+    <RootPropertyPathName Name="kod_guaid" />
+    <RootPropertyPathName Name="hour_lesson" />
+    <RootPropertyPathName Name="TimeOfDay" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="Loading" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetColumnSpan" />
+      <RootMethod Name="SetColumnSpan" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Tag" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Name" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Text" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="Width" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ItemTemplate" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.Popup">
+      <RootProperty Name="Child" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Border">
+      <RootProperty Name="Height" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Child" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Tag" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Background" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding" />
+    <RootType FullName="Windows.UI.Xaml.Controls.SymbolIcon">
+      <RootProperty Name="Symbol" />
+    </RootType>
+    <RootType FullName="FinalProject.changclient" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Header" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CalendarDatePicker">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Height" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="FinalProject.changedetail" />
+    <RootType FullName="Windows.UI.Xaml.Controls.PasswordBox">
+      <RootProperty Name="Password" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootEvent Name="PasswordChanged" />
+    </RootType>
+    <RootType FullName="FinalProject.cheking" />
+    <RootType FullName="FinalProject.clas_castumer" />
+    <RootType FullName="FinalProject.enter_direct" />
+    <RootType FullName="FinalProject.enter_private" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="FinalProject.help_page" />
+    <RootType FullName="FinalProject.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.DatePicker">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="FontSize" />
+    </RootType>
+    <RootType FullName="FinalProject.new_client" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition" />
+    <RootType FullName="FinalProject.schdule_studio" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TimePicker">
+      <RootProperty Name="Width" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Header" />
+    </RootType>
+    <RootType FullName="FinalProject.schedul_direct" />
+  </Roots.RootTypes>
+</Roots>

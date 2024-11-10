@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfcastumeres">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="castumeres" nillable="true" type="tns:castumeres" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfcastumeres" nillable="true" type="tns:ArrayOfcastumeres" />
+  <xs:complexType name="castumeres">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="adresse" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="date_birth" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="family_name" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="id_castumer" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="kod_category" nillable="true" type="tns:category" />
+          <xs:element minOccurs="0" name="kod_city" nillable="true" type="tns:city" />
+          <xs:element minOccurs="0" name="mail" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="pelephone" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="private_name" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="castumeres" nillable="true" type="tns:castumeres" />
+  <xs:complexType name="BaseEntity">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:element name="BaseEntity" nillable="true" type="tns:BaseEntity" />
+  <xs:complexType name="category">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="kod_category" type="xs:int" />
+          <xs:element minOccurs="0" name="name_category" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="category" nillable="true" type="tns:category" />
+  <xs:complexType name="city">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="kod_city" type="xs:int" />
+          <xs:element minOccurs="0" name="name_city" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="city" nillable="true" type="tns:city" />
+  <xs:complexType name="ArrayOfgauides">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="gauides" nillable="true" type="tns:gauides" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfgauides" nillable="true" type="tns:ArrayOfgauides" />
+  <xs:complexType name="gauides">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="adresse_guaid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="dateBirth_guaid" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="family_guaid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="kod_city" nillable="true" type="tns:city" />
+          <xs:element minOccurs="0" name="kod_guaid" type="xs:int" />
+          <xs:element minOccurs="0" name="name_guaid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="tel_guaid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="vetek" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="gauides" nillable="true" type="tns:gauides" />
+  <xs:complexType name="menuyim">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Ispay" type="xs:boolean" />
+          <xs:element minOccurs="0" name="first_date" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="id_castumer" nillable="true" type="tns:castumeres" />
+          <xs:element minOccurs="0" name="kod_manui" type="xs:int" />
+          <xs:element minOccurs="0" name="kod_typmanui" nillable="true" type="tns:typ_menuyim_price_" />
+          <xs:element minOccurs="0" name="last_date" type="xs:dateTime" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="menuyim" nillable="true" type="tns:menuyim" />
+  <xs:complexType name="typ_menuyim_price_">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="kod_typmanui" type="xs:int" />
+          <xs:element minOccurs="0" name="numLesson_week" type="xs:int" />
+          <xs:element minOccurs="0" name="num_month" type="xs:int" />
+          <xs:element minOccurs="0" name="prise" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="typ_menuyim_price_" nillable="true" type="tns:typ_menuyim_price_" />
+  <xs:complexType name="ArrayOfChugim">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Chugim" nillable="true" type="tns:Chugim" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfChugim" nillable="true" type="tns:ArrayOfChugim" />
+  <xs:complexType name="Chugim">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="day_lesson" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="hour_lesson" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="kod_category" nillable="true" type="tns:category" />
+          <xs:element minOccurs="0" name="kod_guaid" nillable="true" type="tns:gauides" />
+          <xs:element minOccurs="0" name="kod_lesson" type="xs:int" />
+          <xs:element minOccurs="0" name="kod_typLesson" nillable="true" type="tns:typ_chugim" />
+          <xs:element minOccurs="0" name="max_atendance" type="xs:int" />
+          <xs:element minOccurs="0" name="min_atendance" type="xs:int" />
+          <xs:element minOccurs="0" name="status" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Chugim" nillable="true" type="tns:Chugim" />
+  <xs:complexType name="typ_chugim">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="kod_typLesson" type="xs:int" />
+          <xs:element minOccurs="0" name="name_lesson" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="typ_chugim" nillable="true" type="tns:typ_chugim" />
+  <xs:complexType name="ArrayOftyp_chugim">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="typ_chugim" nillable="true" type="tns:typ_chugim" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOftyp_chugim" nillable="true" type="tns:ArrayOftyp_chugim" />
+  <xs:complexType name="ArrayOfrishum_to_lesson">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="rishum_to_lesson" nillable="true" type="tns:rishum_to_lesson" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfrishum_to_lesson" nillable="true" type="tns:ArrayOfrishum_to_lesson" />
+  <xs:complexType name="rishum_to_lesson">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="date_rishum" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="is_mustPay" type="xs:boolean" />
+          <xs:element minOccurs="0" name="is_perfumence" type="xs:boolean" />
+          <xs:element minOccurs="0" name="kod_lesson" nillable="true" type="tns:Chugim" />
+          <xs:element minOccurs="0" name="kod_manui" nillable="true" type="tns:menuyim" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="rishum_to_lesson" nillable="true" type="tns:rishum_to_lesson" />
+  <xs:complexType name="ArrayOfcity">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="city" nillable="true" type="tns:city" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfcity" nillable="true" type="tns:ArrayOfcity" />
+  <xs:complexType name="ArrayOfcategory">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="category" nillable="true" type="tns:category" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfcategory" nillable="true" type="tns:ArrayOfcategory" />
+  <xs:complexType name="ArrayOftyp_menuyim_price_">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="typ_menuyim_price_" nillable="true" type="tns:typ_menuyim_price_" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOftyp_menuyim_price_" nillable="true" type="tns:ArrayOftyp_menuyim_price_" />
+  <xs:complexType name="ArrayOfmenuyim">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="menuyim" nillable="true" type="tns:menuyim" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfmenuyim" nillable="true" type="tns:ArrayOfmenuyim" />
+</xs:schema>

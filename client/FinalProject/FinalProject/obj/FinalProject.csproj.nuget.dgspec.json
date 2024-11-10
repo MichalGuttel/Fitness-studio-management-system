@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USER\\Desktop\\פרויקט יב\\יום רביעי\\מיכל\\פרויקט בבית מתוקן\\FinalProject\\FinalProject\\FinalProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USER\\Desktop\\פרויקט יב\\יום רביעי\\מיכל\\פרויקט בבית מתוקן\\FinalProject\\FinalProject\\FinalProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\פרויקט יב\\יום רביעי\\מיכל\\פרויקט בבית מתוקן\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectName": "FinalProject",
+        "projectPath": "C:\\Users\\USER\\Desktop\\פרויקט יב\\יום רביעי\\מיכל\\פרויקט בבית מתוקן\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\פרויקט יב\\יום רביעי\\מיכל\\פרויקט בבית מתוקן\\FinalProject\\FinalProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\visual studio 2019": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
